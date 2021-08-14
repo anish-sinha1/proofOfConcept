@@ -1,0 +1,6 @@
+Ion,NH4,C2H3O,BrO,CO3,HCO,ClO,ClO.1,ClO.2,ClO4,Cr2O7,CrO4,SCN,CN,OH,IO,NO,NO.1,C2O4,MnO4,O2,PO4,HPO4,H2PO4,SiO4,SO3,SO4,HSO4,HS,S2O3,C4H4O6,B4O7
+Number of Atoms,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic,Polyatomic
+Type,Cation,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion,Anion
+Charge,1,-1,-1,-2,-1,-1,-1,-1,-1,-1,-2,-1,-1,-1,-1,-1,-1,-2,-1,-2,-3,-2,-1,-2,-2,-2,-1,-1,-2,-2,-2
+Name,Ammonium,Acetate,Bromate,Carbonate,Hydrogen Carbonate (Bicarbonate),Hypochlorite,Chlorite,Chlorate,Perchlorate,Dichromate,Chromate,Thiocyanate,Cynanide,Hydroxide,Iodate,Nitrite,Nitrate,Oxalate,Permanganate,Peroxide,Phosphate,Hydrogen Phosphate,Dihydrogen Phosphate,Silicate,Sulfite,Sulfate,Hydrogen Sulfate (Bisulfate),Hydrogen Sulfide,Thiosulfate,Tartate,Tetraborate
+Ion,NH4,C2H3O,BrO,CO3,HCO,ClO,ClO,ClO,ClO4,Cr2O7,CrO4,SCN,CN,OH,IO,NO,NO,C2O4,MnO4,O2,PO4,HPO4,H2PO4,SiO4,SO3,SO4,HSO4,HS,S2O3,C4H4O6,B4O7
